@@ -13,8 +13,8 @@
   }
   
   html {
-    background: linear-gradient(180deg, #ea03ff 0%, #0097ff 100%);
-  }
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);  }
   
   input:focus {
     outline: none;
