@@ -119,7 +119,7 @@
   #register-form input[type="submit"],
 #generate-options button,
 #copy-password {
-  background-color: #81d340;
+  background-color: blue;
   color: #fff;
   opacity: 0.8;
   border: none;
